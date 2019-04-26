@@ -1,6 +1,6 @@
 /* 
     Equipe: 
-        Kauana Caroline - Subturma D (Líder) 
+        Kauana Caroline Neves - Subturma D (Líder) 
         Raffael Morais Dutra - Subturma C 
         Etapa 1 & 2
 */
