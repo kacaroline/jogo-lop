@@ -46,7 +46,11 @@ function draw() {
   
   ellipse(x, y,40, 50);
   fill("red")
-  rect(175,20,40,50);
+  rect(xq,20,40,50);
   fill("blue")
+    xq=xq+2
+  if(xq>400){
+    xq=-19
+  }
   
 }
