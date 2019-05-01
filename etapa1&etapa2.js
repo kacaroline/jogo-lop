@@ -1,6 +1,6 @@
 /* 
     Equipe: 
-        Kauana Caroline Neves de Araújo - Subturma D (Líder) ------ teste 123
+        Kauana Caroline Neves de Araújo - Subturma D (Líder)
         Raffael Morais Dutra - Subturma C 
         Etapa 1 & 2
 */
